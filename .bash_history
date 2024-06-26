@@ -65,3 +65,24 @@ vi gitignore.txt
 cat gitignore.txt
 touch gitignore.txt
 vi gitignore.txt
+ls
+touch gitignore.txt
+vi gitignore.txt
+cat gitignore.txt
+cat shahzaib2.txt
+rm gitignore.txt
+vi gitignire.txt
+rm gitignore.txt
+cat gitignore.txt
+.gitignore.txt
+rm gitignore.txt
+touch gitignore.txt
+.gitignore.txt
+vi .gitignore.txt
+cat .gitignore.txt
+gitvi .gitignore
+cat .gitignore.txt
+git inti
+git add .
+git commit -m "m shahzaib"
+vi .gitignore
